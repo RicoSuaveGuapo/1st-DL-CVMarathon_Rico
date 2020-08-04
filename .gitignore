@@ -8,19 +8,8 @@ Day003_color_spave_op_Sample.ipynb
 基礎影像處理
 電腦視覺深度學習基礎/Day015_Cifar_HW_(1).ipynb
 電腦視覺深度學習基礎/Classic CNN-ResNet、InceptionV4、Inception-ResNet_Ans.ipynb
-<<<<<<< HEAD
 電腦視覺深度學習基礎/D21：Transfer learning.pdf
 電腦視覺深度學習基礎/D23：Object detection原理.pdf
 電腦視覺深度學習基礎/D22：Breaking Captchas with a CNN.pdf
 *Sample.ipynb
-=======
-電腦視覺深度學習基礎/coco.py
-電腦視覺深度學習基礎/Day32_yolo_prediction_Sample.ipynb
-電腦視覺深度學習基礎/train2014
-電腦視覺深度學習基礎/data
-電腦視覺深度學習基礎/annotations_trainval2014
-電腦視覺深度學習基礎/Object Detection 程式導讀
-電腦視覺深度學習基礎/Day35.YOLO_loss function/Day35.YOLO 細節理解 - 損失函數/yolo/utils/process_config.py
-電腦視覺深度學習基礎/Day35.YOLO_loss function/Day35.YOLO 細節理解 - 損失函數/conf/train.cfg
-電腦視覺深度學習基礎/Day35.YOLO_loss function/Day35.YOLO 細節理解 - 損失函數/data/_gitignore
->>>>>>> 5e8aee73866e2f5a0b47945c3af357e647bdf3b0
+*.csv
