@@ -1,25 +1,15 @@
 lena.png
 .ipynb_checkpoints
-D2：Color presentation 介紹 (RGB, LAB, HSV).pdf
 Day003_color_spave_op_Sample.ipynb
-D3：顏色相關的預處理 (改變亮度, 色差).pdf
-D4：以圖片為例做矩陣操作 (翻轉, 縮放, 平移).pdf
-D5：透過 OpenCV 做圖並顯示 (長方形, 圓形, 直線, 填色).pdf
+*.pdf
+*.JPG
+*.jpg
+*.png
 基礎影像處理
-電腦視覺深度學習基礎/D11：CNN分類器架構：卷積層.pdf
-電腦視覺深度學習基礎/D12：CNN分類器架構：步長、填充.pdf
 電腦視覺深度學習基礎/Day015_Cifar_HW_(1).ipynb
-電腦視覺深度學習基礎/D16：如何使用Data Augmentation.pdf
-電腦視覺深度學習基礎/Tano.JPG
-電腦視覺深度學習基礎/D17：AlexNet.pdf
-電腦視覺深度學習基礎/VGG16_p.png
-電腦視覺深度學習基礎/Inception架構.png
-電腦視覺深度學習基礎/D19：InceptionV1-V3.pdf
-D20：ResNetV1-V2、InceptionV4、Inception-ResNet.pdf
-Inception-ResNet-A.png
-Inception-ResNet-B.png
-Inception-ResNet-C.png
-電腦視覺深度學習基礎/D14：CNN分類器架構：Batch Normalization.pdf
-電腦視覺深度學習基礎/D15：訓練一個CNN分類器：Cifar10為例.pdf
 電腦視覺深度學習基礎/Classic CNN-ResNet、InceptionV4、Inception-ResNet_Ans.ipynb
 電腦視覺深度學習基礎/D21：Transfer learning.pdf
+電腦視覺深度學習基礎/D23：Object detection原理.pdf
+電腦視覺深度學習基礎/D22：Breaking Captchas with a CNN.pdf
+*Sample.ipynb
+*.csv
