@@ -1,15 +1,33 @@
-lena.png
-.ipynb_checkpoints
-Day003_color_spave_op_Sample.ipynb
+!.ipynb
 *.pdf
-*.JPG
-*.jpg
+*.json
 *.png
-基礎影像處理
-電腦視覺深度學習基礎/Day015_Cifar_HW_(1).ipynb
-電腦視覺深度學習基礎/Classic CNN-ResNet、InceptionV4、Inception-ResNet_Ans.ipynb
-電腦視覺深度學習基礎/D21：Transfer learning.pdf
-電腦視覺深度學習基礎/D23：Object detection原理.pdf
-電腦視覺深度學習基礎/D22：Breaking Captchas with a CNN.pdf
-*Sample.ipynb
-*.csv
+*.jpg
+*-00010
+*.xml
+*.py
+*.pyc
+*.txt
+*.gz
+*.zip
+*.sh
+*.pth
+*-00001
+*.index
+*.meta
+*.config
+README
+_DS_Store
+*.mat
+*.pb
+*.so
+*.pyx
+*.c
+電腦視覺深度學習基礎/ssd_mobilenet_v1_coco_2018_01_28/checkpoint
+*._trimaps
+*.DS_Store
+電腦視覺深度學習基礎/Object Detection 程式導讀/Build RetinaNet.ipynb
+電腦視覺深度學習基礎/Object Detection 程式導讀/輸入資料型態.ipynb
+*.ipynb_checkpoints*
+電腦視覺深度學習基礎/Object Detection 程式導讀/demo/demo.ipynb
+電腦視覺深度學習基礎/Object Detection 程式導讀/layers/functions/Focal_loss.ipynb
