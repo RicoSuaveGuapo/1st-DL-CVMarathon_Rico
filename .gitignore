@@ -33,3 +33,6 @@ _DS_Store
 電腦視覺深度學習基礎/Object Detection 程式導讀/layers/functions/Focal_loss.ipynb
 */cocoapi/
 */models/
+*.JPG
+*.cfg
+_gitignore
