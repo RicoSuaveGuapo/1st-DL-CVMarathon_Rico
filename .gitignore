@@ -31,3 +31,5 @@ _DS_Store
 *.ipynb_checkpoints*
 電腦視覺深度學習基礎/Object Detection 程式導讀/demo/demo.ipynb
 電腦視覺深度學習基礎/Object Detection 程式導讀/layers/functions/Focal_loss.ipynb
+*/cocoapi/
+*/models/
